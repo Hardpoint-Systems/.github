@@ -4,7 +4,7 @@
 
   **The _BEST_ VEX V5 Robotics Accessories on the block. High quality, Sleek design.**
 
-  [Website](https://www.hardpoint.systems) • [Contact](mailto:hello@hardpoint.systems)
+  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.hardpoint.systems&up_message=online&up_color=success&style=flat-square)  •  [![Contact](https://img.shields.io/badge/Contact_Us-hello%40hardpoint.systems-007ec6?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@hardpoint.systems)
 
   ---
 </div>
