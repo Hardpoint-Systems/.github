@@ -19,8 +19,8 @@
 
 ### 📍 Connect With Us
 We are active across the web. Verify our official presence here:
-* 🌐 **Official Website:** [hardpoint.systems](https://www.hardpoint.systems)
-* 📈 **Crunchbase:** [Hardpoint Systems Profile]([https://crunchbase.com](https://www.crunchbase.com/organization/hardpoint-systems))
+* 🌐 **Official Website:** [www.hardpoint.systems](https://www.hardpoint.systems)
+* 📈 **Crunchbase:** [www.crunchbase.com/organization/hardpoint-systems](https://www.crunchbase.com/organization/hardpoint-systems)
 
 ---
 <div align="center">
