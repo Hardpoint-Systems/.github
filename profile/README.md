@@ -15,7 +15,7 @@
 > *Engineering excellence with a focus on aesthetics. Your battery dock no longer has to be an eyesore!*
 
 ### 🛠️ What We Do
-* **Top Notch Design:** Beautiful and functional quality of life accsessories for the VEX ecosystem.
+* **Top Notch Design:** Beautiful and functional quality of life accessories for the VEX ecosystem.
 
 ### 📍 Connect With Us
 We are active across the web. Verify our official presence here:
